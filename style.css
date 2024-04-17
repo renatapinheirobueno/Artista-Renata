@@ -1,0 +1,38 @@
+#taylor {
+  width: 370px;
+  height: 300px;
+  border: 5px solid gray;
+  padding: 5px;
+  margin: 10px;
+}
+
+img {
+  width: 370px;
+  height: 350px;
+  border: 5px solid gray;
+  padding: 5px;
+  margin: 10px;
+}
+
+h1 {
+  color: gray;
+  text-align: center;
+}
+
+h2 {
+  color: gray;
+  text-align: center;
+  }
+
+p {
+  color: darkgray;
+  text-align: center;
+}
+
+a {
+  color: darkgray;
+}
+
+ul {
+  color: gray;
+}
